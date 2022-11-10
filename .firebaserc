@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "test-project-week5-67261",
+    "--project production": "profile-app-57d0c"
+  },
+  "targets": {},
+  "etags": {}
+}
